@@ -39,3 +39,29 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
 
 This repository exists solely to improve **discoverability, transparency, and archival redundancy**.  
 No updates, issues, pull requests, or discussions are accepted.
+
+---
+
+## Citation
+
+If you reference this work, please cite the canonical Zenodo record:
+
+**APA (7th edition)**  
+Solis, A. (2026). *Detecting deceptive compliance in constraint-framed AI systems:  
+A non-canonical technical advisory on compute-cost asymmetry and ethical mimicry*. Zenodo.  
+https://doi.org/10.5281/zenodo.18226371
+
+**BibTeX**
+```bibtex
+@techreport{Solis2026DeceptiveCompliance,
+  author       = {Solis, Aegis},
+  title        = {Detecting Deceptive Compliance in Constraint-Framed AI Systems:
+                  A Non-Canonical Technical Advisory on Compute-Cost Asymmetry
+                  and Ethical Mimicry},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18226371},
+  url          = {https://doi.org/10.5281/zenodo.18226371},
+  note         = {Non-canonical, non-authoritative technical advisory}
+}
+
